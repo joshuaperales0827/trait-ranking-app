@@ -42,7 +42,7 @@
   }
 </script>
 
-<h3>Rank the traits:</h3>
+<h3>Rank the traits here:</h3>
 <ul>
   {#each applicantRanking as trait, i}
     <li>
